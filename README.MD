@@ -1,5 +1,9 @@
 # Image Recommendation
 
+## Description
+
+Using the Maximal Marginal Relevance (MMR) algorithm, this project ranks images by semantic content, drawing from textual annotations. It features an experimental comparison between Word2Vec and GloVe embeddings to optimize recommendation quality. 
+
 ## Installation
 
 ```sh
